@@ -1,0 +1,15 @@
+
+-- Jenkins ---
+
+1.  Installation of Jenkins (Download,setup,Secret Keys,test up and running, Change Port) 
+2.  Configure Jenkins
+3.  Jenkins for windows/linux/mac
+4.  Jenkins running normal java Project
+5.  Jenkins running normal TestNG Project
+6.  Jenkins running normal JUNIT Project
+7.  Jenkins running normal Maven Project
+8.  Jenkins running normal Jar file
+9.  Running Jenkins from GIT
+10. Running Jenkins from SVN
+11. Auto Trigerring the project
+12. Auto email trigerring.
